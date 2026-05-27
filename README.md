@@ -58,7 +58,7 @@ Step 7: Finalize and Export
 
 
 ## Output
-```
+
 ## Comprehensive Report on Generative AI
 1. Foundational Concepts of Generative AI
 
@@ -73,8 +73,8 @@ Generative AI models learn data distributions and generate new outputs similar t
 Generative Adversarial Networks (GANs)
 GANs consist of:
 
-Generator (creates fake data)
-Discriminator (detects real vs fake)
+*Generator (creates fake data)
+*Discriminator (detects real vs fake)
 
 <img width="2048" height="1422" alt="image" src="https://github.com/user-attachments/assets/a8954397-78d7-4002-8f34-8936bc1b1f1f" />
 
@@ -90,13 +90,13 @@ Discriminator (detects real vs fake)
 
 ## Variational Autoencoders (VAEs)
 
-Encode input into latent space
-Decode to generate new data
+*Encode input into latent space
+*Decode to generate new data
 
 ## Transformers
 
-Used for text generation
-Uses attention mechanism
+*Used for text generation
+*Uses attention mechanism
 
 <img width="1400" height="955" alt="image" src="https://github.com/user-attachments/assets/cabe2e9c-e857-403a-b69c-4da26fcd12f3" />
 <img width="3360" height="1891" alt="image" src="https://github.com/user-attachments/assets/dc152eeb-9b14-4aee-9ad3-d24d59b4919f" />
@@ -195,5 +195,4 @@ Domain-specific AI (medical, legal, education)
 
 Generative AI and Large Language Models are transforming industries by enabling machines to generate human-like content. With transformer-based architectures and large-scale training, these systems continue to improve in accuracy, creativity, and usability.
 
-```
 # Result
