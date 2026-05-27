@@ -57,7 +57,52 @@ Step 7: Finalize and Export
 
 
 
-# Output
+## Output
+## Comprehensive Report on Generative AI
+1. Foundational Concepts of Generative AI
 
+Generative AI refers to systems that can create new content such as text, images, audio, and video by learning patterns from existing data.
+
+##Definition
+
+Generative AI models learn data distributions and generate new outputs similar to training data.
+
+## Types of Generative Models
+
+Generative Adversarial Networks (GANs)
+GANs consist of:
+
+Generator (creates fake data)
+Discriminator (detects real vs fake)
+
+<img width="2048" height="1422" alt="image" src="https://github.com/user-attachments/assets/a8954397-78d7-4002-8f34-8936bc1b1f1f" />
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e4d36674-7671-48be-be16-08e3bed5c57d" />
+
+<img width="979" height="632" alt="image" src="https://github.com/user-attachments/assets/04b72f8f-a5d6-4d15-8746-ebf3dec3d94d" />
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/d9874b2a-65ed-46f4-849b-9d14bb850af9" />
+<img width="1043" height="761" alt="image" src="https://github.com/user-attachments/assets/497180ce-c09d-4d49-b1bd-e54c7205a93f" />
+
+<img width="946" height="401" alt="image" src="https://github.com/user-attachments/assets/18f7a9e2-2beb-4ae4-95ff-45a76fabd953" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d6db3eaf-0930-42e0-89a9-6d9a977bc955" />
+
+
+## Variational Autoencoders (VAEs)
+
+Encode input into latent space
+Decode to generate new data
+
+## Transformers
+
+Used for text generation
+Uses attention mechanism
+
+<img width="1400" height="955" alt="image" src="https://github.com/user-attachments/assets/cabe2e9c-e857-403a-b69c-4da26fcd12f3" />
+<img width="3360" height="1891" alt="image" src="https://github.com/user-attachments/assets/dc152eeb-9b14-4aee-9ad3-d24d59b4919f" />
+<img width="1091" height="506" alt="image" src="https://github.com/user-attachments/assets/fd58b1dc-093f-4a80-adea-64ba7cc3fbc2" />
+<img width="1762" height="1308" alt="image" src="https://github.com/user-attachments/assets/6c0cf03a-49cc-46f6-91e6-e61674a36fc0" />
+<img width="571" height="540" alt="image" src="https://github.com/user-attachments/assets/228487c1-b12b-4ec8-aace-8f1db528e100" />
+<img width="1400" height="902" alt="image" src="https://github.com/user-attachments/assets/3323038a-65cf-4ec1-b66d-9673f1ad3eb2" />
+<img width="1200" height="450" alt="image" src="https://github.com/user-attachments/assets/4649ceac-55c4-4de1-ad89-54620ebba3ca" />
 
 # Result
