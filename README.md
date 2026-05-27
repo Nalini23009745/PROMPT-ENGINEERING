@@ -58,6 +58,7 @@ Step 7: Finalize and Export
 
 
 ## Output
+```
 ## Comprehensive Report on Generative AI
 1. Foundational Concepts of Generative AI
 
@@ -105,4 +106,94 @@ Uses attention mechanism
 <img width="1400" height="902" alt="image" src="https://github.com/user-attachments/assets/3323038a-65cf-4ec1-b66d-9673f1ad3eb2" />
 <img width="1200" height="450" alt="image" src="https://github.com/user-attachments/assets/4649ceac-55c4-4de1-ad89-54620ebba3ca" />
 
+## Key Techniques
+Self-Attention Mechanism
+Latent Space Representation
+Probability-based prediction
+
+<img width="1025" height="577" alt="image" src="https://github.com/user-attachments/assets/35d07f64-0675-4107-b0a0-5be978f0e98f" />
+<img width="625" height="499" alt="image" src="https://github.com/user-attachments/assets/9a1558a9-fc74-4c3e-87ab-409e65d399f4" />
+<img width="1400" height="933" alt="image" src="https://github.com/user-attachments/assets/b8336444-7b1a-4e9f-b216-e656982cf050" />
+<img width="1264" height="884" alt="image" src="https://github.com/user-attachments/assets/381e1df0-d1ec-4007-8c1d-d6ef836f7c25" />
+<img width="3401" height="2618" alt="image" src="https://github.com/user-attachments/assets/58c37e63-3f5f-4855-9111-9ff116b16dca" />
+<img width="796" height="613" alt="image" src="https://github.com/user-attachments/assets/dbacde02-3a53-48d5-ad2b-6a9e17ec5efa" />
+
+##  Generative AI Architectures (Transformers)
+
+Transformers are the most powerful architecture used in modern AI systems like ChatGPT.
+
+
+Components of Transformers
+Encoder: Understands input
+Decoder: Generates output
+Self-Attention: Focuses on important words
+Positional Encoding: Maintains sequence order
+
+## Applications of Generative AI
+Chatbots and virtual assistants
+Image generation (DALL·E, MidJourney)
+Video and animation creation
+Code generation
+Medical and scientific research
+
+<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/b5fc2047-8bd0-44f9-8647-553c54a3e262" />
+<img width="1024" height="512" alt="image" src="https://github.com/user-attachments/assets/a6cbd530-a07c-4397-8ee2-6c83c9f2976c" />
+<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/ff283020-bda3-4a4e-918d-9f2d0ffebb31" />
+<img width="1200" height="899" alt="image" src="https://github.com/user-attachments/assets/c19106be-5a31-4bfd-8a01-6b58d909787e" />
+
+
+## Large Language Models (LLMs) and Scaling Impact
+
+LLMs are AI models trained on massive datasets to understand and generate human language.
+<img width="474" height="474" alt="image" src="https://github.com/user-attachments/assets/b33f5ccb-78ff-4ba5-bfcc-6fa9f1eed2c7" />
+<img width="880" height="493" alt="image" src="https://github.com/user-attachments/assets/3063ad2b-ae44-46dc-8f98-c32a3d7a3cb0" />
+<img width="610" height="554" alt="image" src="https://github.com/user-attachments/assets/f9b1f722-1d1b-4845-b13a-bd12e07c4d5c" />
+<img width="700" height="470" alt="image" src="https://github.com/user-attachments/assets/c3415f86-c5a5-4122-923a-d128f972474f" />
+<img width="1118" height="644" alt="image" src="https://github.com/user-attachments/assets/64b0353e-5365-4c13-ba74-bf19cbb63718" />
+<img width="1322" height="900" alt="image" src="https://github.com/user-attachments/assets/fad6508a-d667-40e0-91d1-f2e6a5e1d0d0" />
+<img width="1120" height="616" alt="image" src="https://github.com/user-attachments/assets/1ff89f0c-2362-4430-8ab3-4f183f73a05d" />
+<img width="788" height="519" alt="image" src="https://github.com/user-attachments/assets/253dad3e-609c-4547-b502-b6caf1730110" />
+
+
+## Training Process
+Pre-training on large datasets
+Fine-tuning for specific tasks
+Reinforcement learning from feedback
+
+## Impact of Scaling
+Better reasoning ability
+Improved accuracy
+More human-like responses
+Higher computational cost
+
+## How LLMs Are Built
+Steps:
+Data collection (books, websites, code)
+Tokenization (text → tokens)
+Embedding (tokens → vectors)
+Transformer training
+Fine-tuning
+Deployment in applications
+
+## Challenges of Generative AI
+Ethical Issues:
+Bias in training data
+Fake content generation
+Privacy concerns
+Technical Issues:
+High computing cost
+Energy consumption
+Limited context length
+
+## Future of Generative AI
+More efficient AI models
+Real-time learning systems
+Safer AI with reduced bias
+Domain-specific AI (medical, legal, education)
+
+## Conclusion
+
+Generative AI and Large Language Models are transforming industries by enabling machines to generate human-like content. With transformer-based architectures and large-scale training, these systems continue to improve in accuracy, creativity, and usability.
+
+```
 # Result
